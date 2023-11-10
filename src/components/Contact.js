@@ -9,7 +9,7 @@ function Contact() {
       <h1>Contact & Social Profiles</h1>
       <div className="row mb-3">
         <a
-          href="https://www.linkedin.com/in/ayush-dongre-215039217/"
+          href="https://www.linkedin.com/in/charchit-sharma-562414223/"
           className="btn btn-outline-dark col"
         >
           <FontAwesomeIcon icon={faLinkedin} className="icons" />
@@ -18,7 +18,7 @@ function Contact() {
       </div>
       <div className="row mb-3">
         <a
-          href="mailto:ayushdongre2002@gmail.com"
+          href="mailto:nsharma08546@gmail.com.com"
           className="btn btn-outline-dark col"
         >
           <FontAwesomeIcon icon={faEnvelope} className="icons" />
@@ -27,7 +27,7 @@ function Contact() {
       </div>
       <div className="row">
         <a
-          href="https://github.com/ayushdongre22"
+          href="https://github.com/13Charchit"
           className="btn btn-outline-dark col"
         >
           <FontAwesomeIcon icon={faGithub} className="icons" />
