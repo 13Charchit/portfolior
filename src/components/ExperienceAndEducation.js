@@ -45,7 +45,7 @@ function ExperienceAndEducation() {
               CSS AND HTML TASKS OF ETHNUS INTERNSHIP
               <br />
               <a
-                href="https://github.com/ayushdongre22/EthnusWebDev"
+                href="https://github.com/13Charchit/MERN_task"
                 className="noDecore"
               >
                 GitHub Repository
@@ -58,7 +58,7 @@ function ExperienceAndEducation() {
               <h5>Bachelor of Technology (2021-Present)</h5>
               Vellore Institute of Technology, Chennai
               <br />
-              Current CGPA (for 5 semesters): 8.67
+              Current CGPA (for 5 semesters): 7.1
             </td>
           </tr>
           <hr />
@@ -68,9 +68,9 @@ function ExperienceAndEducation() {
                 Senior Secondary Education (XII<sup>th</sup> Grade) : CBSE Board
                 (2020)
               </h5>
-              Vardhaman Public School, Itarsi, M.P
+              Kendriya Vidyalaya, Haryana
               <br />
-              Percentage: 87%
+              Percentage: 80%
             </td>
           </tr>
           <hr />
@@ -80,7 +80,7 @@ function ExperienceAndEducation() {
               BOOTSTRAP AND JS TASKS OF ETHNUS INTERNSHIP
               <br />
               <a
-                href="https://github.com/ayushdongre22/ethnus-webdev-js-bootstrap"
+                href="https://github.com/13Charchit/BS_JS_TASK"
                 className="noDecore"
               >
                 GitHub Repository
@@ -91,11 +91,11 @@ function ExperienceAndEducation() {
           <tr>
             <td>
               <h5>
-                Secondary Education (X<sup>th</sup> Grade) : CBSE Board (2019)
+                Secondary Education (X<sup>th</sup> Grade) : CBSE Board (2020)
               </h5>
-              Vardhaman Public School, Itarsi
+              Kendriya Vidyalaya, Haryana
               <br />
-              Percentage: 83%
+              Percentage: 89%
             </td>
           </tr>
         </tbody>
