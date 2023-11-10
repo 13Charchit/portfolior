@@ -10,12 +10,12 @@ function About() {
             <div className="contain">
               <p>
                 Hello,
-                <br /> I'm from Itarsi and I'm passionate about Web development
+                <br /> I'm from Faridabad, Haryana and I'm passionate about Web development
                  and Database Design.I make it a priority to stay up-to-date with the
                 latest technologies and trends in these fields to continuously
                 improve my skills.
                 <br /> In my spare time, I enjoy hand lettering, and I'm an
-                active member of the GDSC CLUB at VIT Chennai, programming club of
+                active member of the GDC CLUB at VIT Chennai, programming club of
                 vit chennai. <br />
                 I'm looking forward to connecting with like-minded individuals.
                 Let's collaborate, learn from each other, and create great
